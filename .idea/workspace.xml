@@ -20,19 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d47dc05f-6b91-4e06-a469-12bceff6bd6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/products_mock.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock-designs/default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock-designs/no_products_found.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock-designs/view_detail_modal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock-designs/view_detail_modal_mobile_size.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock-designs/with_search_filter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mock-designs/with_search_filter_and_in_stock_filter.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview Project.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/mock-designs/styles.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606940532964</updated>
-      <workItem from="1606940534066" duration="895000" />
+      <workItem from="1606940534066" duration="1524000" />
     </task>
     <servers />
   </component>
