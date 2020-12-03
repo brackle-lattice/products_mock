@@ -7,7 +7,7 @@ export default function fetchProducts() {
         price: "$19.99",
         inStock: true,
         name: "Hockey Puck",
-        imageUrl: "via.placeholder.com/400x400.png?text=Hockey+Puck"
+        imageUrl: "https://via.placeholder.com/400x400.png?text=Hockey+Puck"
       },
       {
         id: 2,
@@ -15,7 +15,7 @@ export default function fetchProducts() {
         price: "$9.99",
         inStock: true,
         name: "Baseball",
-        imageUrl: "via.placeholder.com/400x400.png?text=Baseball"
+        imageUrl: "https://via.placeholder.com/400x400.png?text=Baseball"
       },
       {
         id: 3,
@@ -23,7 +23,7 @@ export default function fetchProducts() {
         price: "$29.99",
         inStock: false,
         name: "Basketball",
-        imageUrl: "via.placeholder.com/400x400.png?text=Basketball"
+        imageUrl: "https://via.placeholder.com/400x400.png?text=Basketball"
       },
       {
         id: 4,
@@ -31,7 +31,7 @@ export default function fetchProducts() {
         price: "$199.99",
         inStock: true,
         name: "iPod Touch",
-        imageUrl: "via.placeholder.com/400x400.png?text=iPod+Touch"
+        imageUrl: "https://via.placeholder.com/400x400.png?text=iPod+Touch"
       },
       {
         id: 5,
@@ -39,7 +39,7 @@ export default function fetchProducts() {
         price: "$399.99",
         inStock: false,
         name: "iPhone 6",
-        imageUrl: "via.placeholder.com/400x400.png?text=iPhone+5"
+        imageUrl: "https://via.placeholder.com/400x400.png?text=iPhone+5"
       },
       {
         id: 6,
@@ -47,7 +47,7 @@ export default function fetchProducts() {
         price: "$799.99",
         inStock: true,
         name: "Galaxy S20",
-        imageUrl: "via.placeholder.com/400x400.png?text=Nexus+7"
+        imageUrl: "https://via.placeholder.com/400x400.png?text=Nexus+7"
       },
       {
         id: 7,
@@ -55,7 +55,7 @@ export default function fetchProducts() {
         price: "$5999.99",
         inStock: true,
         name: "Mac Pro",
-        imageUrl: "via.placeholder.com/400x400.png?text=Mac+Pro"
+        imageUrl: "https://via.placeholder.com/400x400.png?text=Mac+Pro"
       },
       {
         id: 8,
@@ -63,7 +63,7 @@ export default function fetchProducts() {
         price: "$99.99",
         inStock: true,
         name: "Lattice Jacket",
-        imageUrl: "via.placeholder.com/400x400.png?text=Lattice+Jacket"
+        imageUrl: "https://via.placeholder.com/400x400.png?text=Lattice+Jacket"
       }
     ]);
   });
