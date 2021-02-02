@@ -3,9 +3,9 @@ You must build the UI described below.
 
 You may optionally use Google/Baidu.
 
-You may optionally use any JS framework or library. Examples: node/npm/React/Angular/Vue/jQuery/lodash.
+Code will be written in coderpad using the link we sent you.
 
-You may use your local development environment or you may use an online environment like codesandbox.io.
+You may optionally use any JS framework or library. Coderpad can automatically set up React, Vue, or AngularJS by using the packages button in the editor toolbar.
 
 Please write code without bugs and that is ready for other engineers to read and extend.
 
